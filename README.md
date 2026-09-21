@@ -2,7 +2,7 @@
 
 > **每秒 $0.0106（480P）**，按量计费，最低 1 美元起充。同一个 OpenAI 兼容接口，`https://api.apimart.ai/v1`。
 
-**[查看 Seedance 2.0 Mini 模型页](https://apimart.ai/zh/model/doubao-seedance-2-0)** · **[实时价格](https://apimart.ai/zh/pricing)** · **[获取 API Key](https://apimart.ai/zh/keys)**
+**[查看 Seedance 2.0 Mini 模型页](https://go.apimart.ai/k-1b2b36)** · **[实时价格](https://go.apimart.ai/k-c1d777)** · **[获取 API Key](https://go.apimart.ai/k-3cdd9d)**
 
 它是目前全平台每秒单价最低的视频模型之一，适合先跑通管线再做批量。
 
