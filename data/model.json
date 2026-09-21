@@ -1,0 +1,15 @@
+{
+  "model_id": "seedance-2.0-mini",
+  "family": "Seedance 2.0 Mini",
+  "snapshot": "2026-09-21",
+  "unit": "每秒",
+  "price_effective": {
+    "480P": 0.01056,
+    "480P-input": 0.0064,
+    "720P": 0.028
+  },
+  "endpoint": "https://api.apimart.ai/v1/videos/generations",
+  "poll": "/v1/tasks/{id}",
+  "language": "zh",
+  "source": "https://apimart.ai/en/pricing (extracted 2026-09-21)"
+}
