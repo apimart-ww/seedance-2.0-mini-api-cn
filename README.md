@@ -2,7 +2,8 @@
 
 > **每秒 $0.0106（480P）**，按量计费，最低 1 美元起充。同一个 OpenAI 兼容接口，`https://api.apimart.ai/v1`。
 
-**[查看 Seedance 2.0 Mini 模型页](https://go.apimart.ai/k-1b2b36)** · **[实时价格](https://go.apimart.ai/k-c1d777)** · **[获取 API Key](https://go.apimart.ai/k-3cdd9d)**
+<p align="center"><img src="assets/01-preview-thumb.jpg" width="820" alt="Seedance 2.0 Mini sample frame"></p>
+**[查看 Seedance 2.0 Mini 模型页](https://apimart.ai/zh/model/doubao-seedance-2-0)** · **[实时价格](https://apimart.ai/zh/pricing)** · **[获取 API Key](https://apimart.ai/zh/keys)**
 
 它是目前全平台每秒单价最低的视频模型之一，适合先跑通管线再做批量。
 
@@ -20,6 +21,13 @@
 | `model` | `seedance-2.0-mini` |
 | endpoint | `POST https://api.apimart.ai/v1/videos/generations` |
 | task | GET /v1/tasks/{id} |
+
+
+## 真实调用样例（下表每条都是实际跑出来的结果）
+
+| 输出档位 | file | 花费 | prompt |
+| --- | --- | --- | --- |
+| <img src="assets/01-preview-thumb.jpg" width="260"> | [01-preview.mp4](assets/01-preview.mp4) | $0.0528 | `海边悬崖上的现代别墅，黄昏，泳池倒映天空，缓慢推镜` |
 
 ## 实测价格
 

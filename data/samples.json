@@ -1,0 +1,18 @@
+{
+  "model": "seedance-2.0-mini",
+  "samples": [
+    {
+      "repo": "seedance-2.0-mini-api-cn",
+      "slug": "01-preview",
+      "ok": true,
+      "file": "01-preview.mp4",
+      "bytes": 1392168,
+      "thumb": "01-preview-thumb.jpg",
+      "cost": 0.0528,
+      "prompt": "海边悬崖上的现代别墅，黄昏，泳池倒映天空，缓慢推镜",
+      "lang": "zh"
+    }
+  ],
+  "cost_usd": 0.0528,
+  "generated_at": "2026-09-21"
+}
